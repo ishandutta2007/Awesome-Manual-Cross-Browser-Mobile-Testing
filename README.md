@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Manual-Cross-Browser-Mobile-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manual-Cross-Browser-Mobile-Testing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Manual-Cross-Browser-Mobile-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manual-Cross-Browser-Mobile-Testing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Manual-Cross-Browser-Mobile-Testing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Manual-Cross-Browser-Mobile-Testing?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Manual-Cross-Browser-Mobile-Testing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Manual-Cross-Browser-Mobile-Testing" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Manual-Cross-Browser-Mobile-Testing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg" alt="License: CC0-1.0" /></a>
@@ -134,9 +134,9 @@ Self-hosted, community-driven tools for teams seeking complete data privacy, off
 
 ### 🌟 Open-Source Solutions by Community Traction
 
-Sorted by GitHub star count in descending order:
+Sorted by GitHub Stars_Count in descending order:
 
-| Project | GitHub Stars (White Social Badge) | License | Primary Tech Stack | Core Architecture & Capability |
+| Project | GitHub_Stars (White Social Badge) | License | Primary Tech Stack | Core Architecture & Capability |
 |:---|:---:|:---|:---|:---|
 | **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)** | [![scrcpy Stars](https://img.shields.io/github/stars/Genymobile/scrcpy?style=social&color=white)](https://github.com/Genymobile/scrcpy/stargazers) | Apache-2.0 | C / Java / ADB | High-performance, ultra-low latency screen mirroring & physical Android control |
 | **[microsoft/playwright](https://github.com/microsoft/playwright)** | [![Playwright Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | Apache-2.0 | TypeScript / C++ / Python | Interactive UI Mode, Codegen inspector, and multi-browser execution engine |
@@ -204,13 +204,13 @@ Sorted by GitHub star count in descending order:
 | **Appetize.io** | SaaS Cloud | ❌ | 📱 (Emulators) | ❌ | ❌ | 🏢 Web Embedded Demos |
 | **Browserling** | SaaS Cloud | ✅ | ✅ (iOS/Android) | ✅ (Full VM) | ❌ | 🏢 Indie Micro-SaaS |
 | **TestingBot** | SaaS Cloud | ✅ | ✅ | ✅ | ❌ | 🏢 Budget Cloud Provider |
-| **Genymobile/scrcpy** | Open Source | ❌ | ✅ (Android) | ✅ (Direct ADB) | ✅ | ⭐ 154k+ Stars |
-| **Playwright UI / Codegen** | Open Source | ✅ | ❌ (Browser Emul.) | ✅ (Built-in) | ✅ | ⭐ 100k+ Stars |
-| **Selenium Grid 4** | Open Source | ✅ | ❌ | ✅ (VNC / Debug) | ✅ | ⭐ 34k+ Stars |
-| **DeviceFarmer STF** | Open Source | ❌ | ✅ (Android) | ✅ (Remote ADB) | ✅ | ⭐ 4.6k+ Stars |
-| **Selenoid + UI** | Open Source | ✅ | ❌ | ✅ (Live VNC) | ✅ | ⭐ 2.9k+ Stars |
-| **Sonic Server** | Open Source | ❌ | ✅ (iOS & Android) | ✅ (Cloud Hub) | ✅ | ⭐ 2.2k+ Stars |
-| **shamanec/GADS** | Open Source | ❌ | ✅ (iOS & Android) | ✅ (WebRTC) | ✅ | ⭐ 400+ Stars |
+| **Genymobile/scrcpy** | Open Source | ❌ | ✅ (Android) | ✅ (Direct ADB) | ✅ | ⭐ 154k+ GitHub_Stars |
+| **Playwright UI / Codegen** | Open Source | ✅ | ❌ (Browser Emul.) | ✅ (Built-in) | ✅ | ⭐ 100k+ GitHub_Stars |
+| **Selenium Grid 4** | Open Source | ✅ | ❌ | ✅ (VNC / Debug) | ✅ | ⭐ 34k+ GitHub_Stars |
+| **DeviceFarmer STF** | Open Source | ❌ | ✅ (Android) | ✅ (Remote ADB) | ✅ | ⭐ 4.6k+ GitHub_Stars |
+| **Selenoid + UI** | Open Source | ✅ | ❌ | ✅ (Live VNC) | ✅ | ⭐ 2.9k+ GitHub_Stars |
+| **Sonic Server** | Open Source | ❌ | ✅ (iOS & Android) | ✅ (Cloud Hub) | ✅ | ⭐ 2.2k+ GitHub_Stars |
+| **shamanec/GADS** | Open Source | ❌ | ✅ (iOS & Android) | ✅ (WebRTC) | ✅ | ⭐ 400+ GitHub_Stars |
 
 ---
 
@@ -227,7 +227,7 @@ Contributions are welcome and greatly appreciated! 💡
 If you know of an outstanding manual cross-browser testing platform, self-hosted device farm, or open-source testing utility:
 1. Fork this repository.
 2. Add your suggested entry to the appropriate section in alphabetical or sorted order.
-3. Ensure open-source entries include valid GitHub star badges linking directly to stargazers.
+3. Ensure open-source entries include valid GitHub Stars_Badges linking directly to stargazers.
 4. Submit a descriptive Pull Request.
 
 Please check out our list of other awesome collections at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
